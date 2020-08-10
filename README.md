@@ -101,7 +101,7 @@ print(tag_list)
 
 ```
 ['있느냐”고 비꼬았다', '미래통합당 하태경 의원이', '매뉴얼이라도 있느냐”고 비꼬았다', '부동산', '미래통합당 하태경', '하태경 의원이', '아파트', '청와대', '“청와대에', '비꼬았다']
-['부동산', '의원', '매뉴얼', '당', '청와대', '미래', '아파트', '하태경', '통합']
+['통합', '하태경', '미래', '아파트', '청와대', '의원', '매뉴얼', '부동산']
 ["http://127.0.0.1:5000/static/audio_meta/audio/25_Far_away.wav","http://127.0.0.1:5000/static/audio_meta/audio/65_Running_To_The_Sky.mp3","http://127.0.0.1:5000/static/audio_meta/audio/31_Lost_in_the_fog.wav","http://127.0.0.1:5000/static/audio_meta/audio/86_Ranking_show.mp3","http://127.0.0.1:5000/static/audio_meta/audio/66_Run.mp3"]
 ["블로그","뉴스","광고","광고하는","범죄"]
 ```

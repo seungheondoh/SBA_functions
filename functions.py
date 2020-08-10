@@ -43,7 +43,7 @@ def tokenizer(sentence):
     list of extract keywords
     """
     token_doc = _tokenize(sentence)
-    return [token.split('/')[0] for token in token_doc if (token.split('/')[1] in save_item)]
+    return [token.split('/')[0] for token in token_doc if (token.split('/')[1] in save_item) and len(token.split('/')[0]) > 1]
 
 def multiquery_retrieval(self, positive, restrict_vocab, topn=5):
     """Find the top-N most similar words.
