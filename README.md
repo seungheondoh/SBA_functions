@@ -57,7 +57,7 @@ pip install -r requirements.txt
     - output : Token List (List of str)
 * multiquery_retrieval
     - input 
-        - Gensim Word Vector Class (Gensim Class)
+        - Gensim KeyedVectors instance (Gensim object)
         - model_input : Token List (List of str)
         - restrict_vocab : Search Tokens, Tag or Song (List of str)
     - output : Most Similar restrict_vocab, Tag or Song (List of str)
