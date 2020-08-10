@@ -1,0 +1,8 @@
+Flask==1.1.2
+gensim==3.8.3
+JPype1==0.7.5
+konlpy==0.5.2
+numpy==1.19.0
+pandas==1.0.3
+six==1.15.0
+yake==0.3.7
